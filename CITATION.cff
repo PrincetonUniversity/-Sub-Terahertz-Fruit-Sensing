@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SubTHz Fruit Sensing Raw Waveforms
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: 'Subhajit '
+    family-names: Karmakar
+    email: sk6051@princeton.edu
+    affiliation: Princeton University
+    orcid: 'https://orcid.org/0000-0002-2274-7194'
+  - given-names: Atsutse
+    family-names: ' Kludze'
+    email: kludze@princeton.edu
+    affiliation: Princeton University
+    orcid: 'https://orcid.org/0000-0001-6206-1165'
+  - given-names: Yasaman
+    family-names: Ghasempour
+    email: ghasempour@princeton.edu
+    affiliation: Princeton University
+    orcid: 'https://orcid.org/0000-0002-4494-499X'
+identifiers:
+  - type: doi
+    value: 10.1145/3625687.3625815
+repository-code: >-
+  https://github.com/PrincetonUniversity/-Sub-Terahertz-Fruit-Sensing
